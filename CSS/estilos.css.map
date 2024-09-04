@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../SCSS/_divs.scss","../SCSS/_mixins.scss","../SCSS/_nesting.scss","../SCSS/estilos.scss","../SCSS/_variables.scss"],"names":[],"mappings":"AAAA;ECCI;EACA,QDDyB;ECEzB,ODF+B;ECG/B,kBDHoC;;;AAGxC;ECHI,ODImB;ECHnB,QDG0B;ECF1B,ODEiC;ECDjC,kBDC+C;;;AEJ/C;EACI;;AAEJ;EACI;;AAEJ;EACI;;;ACHR;EACI,OCMI;EDLJ,QCSK;;;ADNT;EAEQ","file":"estilos.css"}

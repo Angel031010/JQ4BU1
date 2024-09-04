@@ -1,0 +1,7 @@
+.div1 {
+    @include customdiv(50px, 75px, red, white);
+}
+
+.div2 {
+    @include customdiv(170px, 175px, rgb(0, 0, 0), orange);
+}
